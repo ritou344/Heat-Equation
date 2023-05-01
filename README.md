@@ -7,3 +7,5 @@ Solving the heat equation for homogeneous and non-homogeneous boundary condition
 
 $0 \le x \le 1$ and $0 \le t \le 1$
 
+#### Second Boundary Conditions: $U(0,t) = 20$ and $U(1,0) = 50$
+#### Second Initial Condition: $U(x,0) = 0$
